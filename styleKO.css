@@ -1,0 +1,15 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+h1 {
+
+    text-align: justify;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-size: 50px;
+    box-shadow: 0 1px 50px black;
+}
